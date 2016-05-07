@@ -1,0 +1,23 @@
+{
+  "name": "@dwoodscs/how-to-npm",
+  "version": "1.0.1",
+  "description": "This is a readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave-woods/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dave-woods/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/dave-woods/how-to-npm#readme"
+}
